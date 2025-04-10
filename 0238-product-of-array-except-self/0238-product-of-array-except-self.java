@@ -17,13 +17,13 @@ class Solution {
         for(int i=0; i<nums.length; i++){
             answer[i] = left; // 첫번째 값은 left가 없기에 기본값 1
             left = left * nums[i];
-        }
+        } // answer = 1, 1, 2, 6
         
         // 뒤에서부터 곱해줌
         for(int i=nums.length-1; i>=0; i--){
             answer[i] *= right;
             right *= nums[i];
-        }
+        } // right = 1 -> answer[3] = 1 * 6, right = 1 * 4 -> answer[2] = 2 * 4, right = 1*4*3...  
         
         return answer;
 
