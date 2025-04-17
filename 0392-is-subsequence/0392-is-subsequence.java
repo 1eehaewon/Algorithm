@@ -21,6 +21,14 @@ class Solution {
                 }
             }
         }
+        /*
+         while (i < s.length() && j < t.length()) {
+            if (s.charAt(i) == t.charAt(j)) {
+                i++;
+            }
+            j++;
+        }
+        */
 
         if(i==s.length()){
             return true;
