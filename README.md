@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/1eehaewon/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/1eehaewon/Algorithm/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/1eehaewon/Algorithm/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/1eehaewon/Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/1eehaewon/Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -42,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/1eehaewon/Algorithm/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/1eehaewon/Algorithm/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
