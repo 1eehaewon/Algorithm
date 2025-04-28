@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/1eehaewon/Algorithm/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/1eehaewon/Algorithm/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/1eehaewon/Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/1eehaewon/Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/1eehaewon/Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -47,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/1eehaewon/Algorithm/tree/master/0643-maximum-average-subarray-i) |
+## Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/1eehaewon/Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
