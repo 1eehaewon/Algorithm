@@ -13,6 +13,7 @@ class Solution {
         
         // Map길이만큼 돌면서 각 value 비교 (3) (2) (1)
         // -> Set에 value를 넣었을 때, 길이가 줄어들면 중복이 존재
+        // map.values() : map의 value값들을 Collection으로 반환 -> [3,2,1]
         Set<Integer> set = new HashSet<>(map.values());
         if(map.size() != set.size()) {
             return false;
