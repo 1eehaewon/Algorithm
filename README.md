@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/1eehaewon/Algorithm/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/1eehaewon/Algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/1eehaewon/Algorithm/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/1eehaewon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/1eehaewon/Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/1eehaewon/Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/1eehaewon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/1eehaewon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
